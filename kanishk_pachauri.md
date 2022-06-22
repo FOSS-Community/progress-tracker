@@ -5,7 +5,7 @@
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|I learn HTML|https://ibb.co/rcSR5SV|
-|2|||
+|2|Doing My Gsoc Stuff|https://github.com/scrapinghub/dateparser/pull/987|
 |3|||
 |4|||
 |5|||
