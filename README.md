@@ -7,6 +7,6 @@
 Update your daily work details here.
 
 <center>
-<h1> Keep Doing the Good Work ✌🏻 abc
+<h1> Keep Doing the Good Work ✌🏻.
 </center>
 
