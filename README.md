@@ -4,8 +4,9 @@
   <img src="https://cdn.theatlantic.com/media/files/2022/progress/progress-share.png" />
 </p>
 
-Update your daily work details here. Sorry Devs ^)
+Update your daily work details here.
 
-Follow this while merging PR <br><br>
--> __#(index of PR) from Github Handle__ <br>
+<center>
+<h1> Keep Doing the Good Work ✌🏻
+</center>
 
