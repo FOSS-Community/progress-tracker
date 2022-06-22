@@ -4,18 +4,13 @@ import time
 import argparse as parsing
 
 
-parser = parsing.ArgumentParser(description="Just an example",formatter_class=parsing.ArgumentDefaultsHelpFormatter)
+parser = parsing.ArgumentParser(description="ReadME.md to .html writer",formatter_class=parsing.ArgumentDefaultsHelpFormatter)
 
-parser.add_argument('--input', action='store', type=str, required=True)
-parser.add_argument('--title', action='store', type=str, default='Progress')
-parser.add_argument('--output', action='store', type=str, required=True)
+parser.add_argument('-i', '--input', action='store', type=str, required=True, help="name of the input file eg. template.html")
+parser.add_argument('-t', '--title', action='store', type=str, default='Progress', help="title of the html page." )
+parser.add_argument('-o', '--output', action='store', type=str, required=True, help="the generated output file name , which is generated in dist folder. eg. template.html")
 
 args = parser.parse_args()
-
-# print(args.input)
-# print(args.title)
-# print(args.output)
-
 
 FILE_NAME = args.input
 TITLE = args.title
@@ -25,6 +20,7 @@ try:
     os.system('npm install github-readme-to-html')
 except:
     print("NPM is not Installed")
+    print("Try : sudo apt install nodejs | sudo apt install npm ")
 
 time.sleep(5)
 print("Wait While The File is Converting")
