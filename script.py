@@ -1,9 +1,25 @@
 import os 
 import time
 
-FILE_NAME = ""
-TITLE = ""
-OUTPUT_NAME = ""
+import argparse as parsing
+
+
+parser = parsing.ArgumentParser(description="Just an example",formatter_class=parsing.ArgumentDefaultsHelpFormatter)
+
+parser.add_argument('--input', action='store', type=str, required=True)
+parser.add_argument('--title', action='store', type=str, default='Progress')
+parser.add_argument('--output', action='store', type=str, required=True)
+
+args = parser.parse_args()
+
+# print(args.input)
+# print(args.title)
+# print(args.output)
+
+
+FILE_NAME = args.input
+TITLE = args.title
+OUTPUT_NAME = args.output
 
 try:
     os.system('npm install github-readme-to-html')
