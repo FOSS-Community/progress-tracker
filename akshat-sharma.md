@@ -28,7 +28,7 @@
 |22|||
 |23|||
 |24|||
-|25|||
+|25|Contribute to CNCF|https://github.com/cncf/glossary/pull/991|
 |26|||
 |27|||
 |28|||
