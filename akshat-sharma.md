@@ -12,7 +12,7 @@
 |6|||
 |7|||
 |8|||
-|9|| |
+|9|||
 |10|||
 |11|||
 |12|||
@@ -28,7 +28,7 @@
 |22|||
 |23|||
 |24|||
-|25|Contribute to CNCF|https://github.com/cncf/glossary/pull/992|
+|25|Learning Ansible Automation on Azure|https://ibb.co/R2HLhJz|
 |26|Learning Terraform|https://ibb.co/Rh0mPTS|
 |27|||
 |28|||
