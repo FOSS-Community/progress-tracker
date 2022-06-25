@@ -29,7 +29,7 @@
 |23|||
 |24|||
 |25|Contribute to CNCF|https://github.com/cncf/glossary/pull/992|
-|26|||
+|26|Learning Terraform|https://ibb.co/Rh0mPTS|
 |27|||
 |28|||
 |29|||
