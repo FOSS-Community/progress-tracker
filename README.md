@@ -5,7 +5,7 @@
 </p>
 
 Update your daily work details here.
-
+After updating your progress, run `python script.py -i yourname.md -o yourname.html` in the terminal.
 <center>
 <h1> Keep Doing the Good Work ✌🏻.
 </center>
