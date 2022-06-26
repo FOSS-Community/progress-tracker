@@ -1,6 +1,6 @@
 ## Timeline
 
-> **Jun, 2022**
+> **Month, YYYY**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -28,8 +28,8 @@
 |22|||
 |23|||
 |24|||
-|25|Learning Ansible Automation on Azure|https://ibb.co/R2HLhJz|
-|26|Learning Terraform|https://ibb.co/Rh0mPTS|
+|25|||
+|26|||
 |27|||
 |28|||
 |29|||
