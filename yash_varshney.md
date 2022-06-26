@@ -1,6 +1,6 @@
 ## Timeline
 
-> **Month, YYYY**
+> **June, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -23,10 +23,10 @@
 |17|||
 |18|||
 |19|||
-|20|||
+|20|Start Learning React|https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ|
 |21|||
 |22|||
-|23|||
+|23|Learn React component and props in react |http://surl.li/cgupw|
 |24|||
 |25|||
 |26|||

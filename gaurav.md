@@ -1,13 +1,13 @@
 ## Timeline
 
-> **Month, YYYY**
+> **June, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
-|2|||
+|1|Took lab session on Docker|https://ibb.co/jV6CGpm|
+|2|Started learning Python|https://ibb.co/W5n07BP|
 |3|||
-|4|||
+|4|Created README.md file|https://ibb.co/M5fjQMb|
 |5|||
 |6|||
 |7|||
@@ -23,7 +23,7 @@
 |17|||
 |18|||
 |19|||
-|20|||
+|20|Learned about YAML files|https://ibb.co/b529xX4|
 |21|||
 |22|||
 |23|||

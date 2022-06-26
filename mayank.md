@@ -1,10 +1,10 @@
 ## Timeline
 
-> **June, 2022**
+> **Feb, 2020**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|Attended the Fossc meating||
+|1|||
 |2|||
 |3|||
 |4|||
@@ -12,7 +12,7 @@
 |6|||
 |7|||
 |8|||
-|9|||
+|9|Building UI for Coderbano project|Private Repo|
 |10|||
 |11|||
 |12|||

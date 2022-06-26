@@ -12,7 +12,7 @@
 |6|||
 |7|||
 |8|||
-|9|| |
+|9|||
 |10|||
 |11|||
 |12|||
@@ -28,8 +28,8 @@
 |22|||
 |23|||
 |24|||
-|25|||
-|26|||
+|25|Learning Ansible Automation on Azure|https://ibb.co/R2HLhJz|
+|26|Learning Terraform|https://ibb.co/Rh0mPTS|
 |27|||
 |28|||
 |29|||

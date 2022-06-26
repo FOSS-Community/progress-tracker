@@ -1,18 +1,18 @@
 ## Timeline
 
-> **Month, YYYY**
+> **Jun, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|||
 |2|||
-|3|||
+|3| Learned HTML and CSS | https://ibb.co/VBf63CP |
 |4|||
 |5|||
 |6|||
 |7|||
 |8|||
-|9|||
+|9| Learned Solidity | https://ibb.co/qnY6nwQ |
 |10|||
 |11|||
 |12|||
