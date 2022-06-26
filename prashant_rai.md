@@ -1,10 +1,10 @@
 ## Timeline
 
-> June, 2022
+> **June, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
+|1|cloned a bitcoin website|https://glistening-selkie-7f963a.netlify.app/|
 |2|||
 |3|||
 |4|||
@@ -12,7 +12,7 @@
 |6|||
 |7|||
 |8|||
-|9|Building UI for Coderbano project|Private Repo|
+|9|||
 |10|||
 |11|||
 |12|||
