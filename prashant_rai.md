@@ -4,10 +4,10 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|Took lab session on Docker|https://ibb.co/jV6CGpm|
-|2|Started learning Python|https://ibb.co/W5n07BP|
+|1|cloned a bitcoin website|https://glistening-selkie-7f963a.netlify.app/|
+|2|||
 |3|||
-|4|Created README.md file|https://ibb.co/M5fjQMb|
+|4|||
 |5|||
 |6|||
 |7|||
@@ -23,7 +23,7 @@
 |17|||
 |18|||
 |19|||
-|20|Learned about YAML files|https://ibb.co/b529xX4|
+|20|||
 |21|||
 |22|||
 |23|||
