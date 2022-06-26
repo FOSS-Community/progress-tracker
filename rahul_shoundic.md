@@ -17,9 +17,9 @@
 |11|||
 |12|||
 |13|||
-|14|||
+|14| linux commands | https://ibb.co/LJ2WfVK |
 |15|||
-|16|||
+|16| linux commands ||
 |17|||
 |18|||
 |19|||
@@ -27,9 +27,9 @@
 |21|||
 |22|||
 |23|||
-|24|||
+|24| linux commands | https://ibb.co/JHJL3hv , https://ibb.co/r51swJS |
 |25|||
-|26|||
+|26| Docker video tutorials of Kunal Kushwaha | https://www.youtube.com/watch?v=17Bl31rlnRM |
 |27|||
 |28|||
 |29|||
