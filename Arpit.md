@@ -10,7 +10,7 @@
 |4|||
 |5|||
 |6|||
-|7|||
+|7|Learned the basic of HTML and CSS|https://ibb.co/FwMBw0|
 |8|||
 |9|||
 |10|||
@@ -28,9 +28,9 @@
 |22|||
 |23|||
 |24|||
-|25|Learning Ansible Automation on Azure|https://ibb.co/R2HLhJz|
-|26|Learning Terraform|https://ibb.co/Rh0mPTS|
-|27|Contributing to CNCF|https://github.com/cncf/glossary/pull/992|
+|25|||
+|26|||
+|27|||
 |28|||
 |29|||
 |30|||
