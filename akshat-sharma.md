@@ -31,8 +31,8 @@
 |25|Learning Ansible Automation on Azure|https://ibb.co/R2HLhJz|
 |26|Learning Terraform|https://ibb.co/Rh0mPTS|
 |27|Contributing to CNCF|https://github.com/cncf/glossary/pull/992|
-|28|||
-|29|||
+|28|Learning Terraform||
+|29|Started the Syllabus||
 |30|||
 |31|||
 
