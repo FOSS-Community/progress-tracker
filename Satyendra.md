@@ -32,7 +32,7 @@
 |26|||
 |27|||
 |28|Did css from fcc and Maths||
-|29|||
+|29|learning electronics||
 |30|||
 |31|||
 
