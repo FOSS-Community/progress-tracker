@@ -1,6 +1,6 @@
 ## Timeline
 
-> **Jun, 2022**
+> **June, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -28,10 +28,10 @@
 |22|||
 |23|||
 |24|||
-|25|Learning Ansible Automation on Azure|https://ibb.co/R2HLhJz|
-|26|Learning Terraform|https://ibb.co/Rh0mPTS|
-|27|Contributing to CNCF|https://github.com/cncf/glossary/pull/992|
-|28|||
+|25|||
+|26|||
+|27|||
+|28|Did css from fcc and Maths||
 |29|||
 |30|||
 |31|||

@@ -1,6 +1,6 @@
 ## Timeline
 
-> **Jun, 2022**
+> **June, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -17,9 +17,9 @@
 |11|||
 |12|||
 |13|||
-|14|||
+|14| linux commands | https://ibb.co/LJ2WfVK |
 |15|||
-|16|||
+|16| linux commands ||
 |17|||
 |18|||
 |19|||
@@ -27,10 +27,10 @@
 |21|||
 |22|||
 |23|||
-|24|||
-|25|Learning Ansible Automation on Azure|https://ibb.co/R2HLhJz|
-|26|Learning Terraform|https://ibb.co/Rh0mPTS|
-|27|Contributing to CNCF|https://github.com/cncf/glossary/pull/992|
+|24| linux commands | https://ibb.co/JHJL3hv , https://ibb.co/r51swJS |
+|25|||
+|26| Docker video tutorials of Kunal Kushwaha | https://www.youtube.com/watch?v=17Bl31rlnRM |
+|27|||
 |28|||
 |29|||
 |30|||
