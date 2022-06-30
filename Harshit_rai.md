@@ -1,6 +1,6 @@
 ## Timeline
 
-> **June, 2022**
+> **July , 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -26,8 +26,8 @@
 |20|||
 |21|||
 |22|||
-|23|Attended Fossc Meeting||
-|24|cloned a site|https://github.com/Harshitr10/blockchain_clone.git|
+|23|||
+|24|||
 |25|||
 |26|||
 |27|||
