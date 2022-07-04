@@ -1,10 +1,10 @@
 ## Timeline
 
-> **June, 2022**
+> **JULY, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
+|1|learning js and solving maths for PUE||
 |2|||
 |3|||
 |4|||
