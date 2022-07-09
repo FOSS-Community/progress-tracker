@@ -47,10 +47,10 @@
 |3|Contributed to Microsoft Open Source|https://github.com/akshatcoder-hash/opensource.microsoft.com|
 |4|Studying for PUE||
 |5|Contributed to LFX||
-|6|||
-|7|||
-|8|||
-|9|||
+|6|Studying for PUE||
+|7|Studying||
+|8|HuGo|https://ibb.co/R2fsJMd|
+|9|Apache Kafka|https://ibb.co/Js7QQGj|
 |10|||
 |11|||
 |12|||
