@@ -1,6 +1,6 @@
 ## Timeline
 
-> **Jun, 2022**
+> **July, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -19,7 +19,7 @@
 |13|||
 |14|||
 |15|Inheritance in C++||
-|16|||
+|16|Electronics||
 |17|||
 |18|||
 |19|||
