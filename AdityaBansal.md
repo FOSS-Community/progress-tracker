@@ -20,7 +20,7 @@
 |14|||
 |15|Inheritance in C++||
 |16|Electronics||
-|17|||
+|17|Maths because UE are coming||
 |18|||
 |19|||
 |20|||
