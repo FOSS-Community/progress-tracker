@@ -21,7 +21,7 @@
 |15|Inheritance in C++||
 |16|Electronics||
 |17|Maths because UE are coming||
-|18|||
+|18|Started DSA and got a basic idea of Linked Lists and its types||
 |19|||
 |20|||
 |21|||
