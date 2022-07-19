@@ -22,7 +22,7 @@
 |16|Electronics||
 |17|Maths because UE are coming||
 |18|Started DSA and got a basic idea of Linked Lists and its types||
-|19|||
+|19|Studied Electronics because of PIT and got basic introduction about stacks||
 |20|||
 |21|||
 |22|||
