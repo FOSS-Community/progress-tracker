@@ -23,7 +23,7 @@
 |17|Maths because UE are coming||
 |18|Started DSA and got a basic idea of Linked Lists and its types||
 |19|Studied Electronics because of PIT and got basic introduction about stacks||
-|20|||
+|20|Started Maths Unit 5||
 |21|||
 |22|||
 |23|||
