@@ -58,7 +58,7 @@
 |14|||
 |15|||
 |16|||
-|17|Deployed a Smart Contract and Published own NFT||
+|17|Deployed a Smart Contract and Published own NFT|https://twitter.com/akshatwts/status/1548425694015008768?s=20&t=16tSjxkTPqA4KtbFKmTuoA|
 |18|Built BuyMeACoffee D app||
 |19|||
 |20|||
