@@ -58,7 +58,7 @@
 |14|||
 |15|||
 |16|||
-|17|||
+|17|Deployed a Smart Contract and Published own NFT||
 |18|Built BuyMeACoffee D app||
 |19|||
 |20|||
