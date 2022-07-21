@@ -60,7 +60,7 @@
 |16|||
 |17|Deployed a Smart Contract and Published own NFT|https://twitter.com/akshatwts/status/1548425694015008768?s=20&t=16tSjxkTPqA4KtbFKmTuoA|
 |18|Built BuyMeACoffee D app|https://twitter.com/akshatwts/status/1548770675938443264?s=20&t=16tSjxkTPqA4KtbFKmTuoA|
-|19|Learnt about Terraform and Infrastructure as a Code||
+|19|Learnt about Terraform and Infrastructure as a Code|https://twitter.com/akshatwts/status/1549461437122486272?s=20&t=16tSjxkTPqA4KtbFKmTuoA|
 |20|||
 |21|||
 |22|||
