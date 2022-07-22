@@ -25,7 +25,7 @@
 |19|Studied Electronics because of PIT and got basic introduction about stacks||
 |20|Started Maths Unit 5||
 |21|Maths Unit 4 completed||
-|22|||
+|22|Nothing much except Chemistry||
 |23|||
 |24|||
 |25|||
