@@ -25,7 +25,7 @@
 |19|||
 |20|||
 |21|Flutter Concepts||
-|22|||
+|22|Updated Github profile and Learnt about Flutter Widgets|https://www.geeksforgeeks.org/what-is-widgets-in-flutter/|
 |23|||
 |24|||
 |25|||
