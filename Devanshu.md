@@ -4,7 +4,7 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
+|1|Flutter Installation ||
 |2|||
 |3|||
 |4|||
