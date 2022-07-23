@@ -26,7 +26,7 @@
 |20|Started Maths Unit 5||
 |21|Maths Unit 4 completed||
 |22|Nothing much except Chemistry||
-|23|||
+|23|Continued with DSA||
 |24|||
 |25|||
 |26|||
