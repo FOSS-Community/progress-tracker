@@ -27,7 +27,7 @@
 |21|Flutter Concepts||
 |22|Updated Github profile and Learnt about Flutter Widgets|https://www.geeksforgeeks.org/what-is-widgets-in-flutter/|
 |23|Electronics||
-|24|||
+|24|Chemistry||
 |25|||
 |26|||
 |27|||
