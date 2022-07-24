@@ -4,7 +4,7 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
+|1|cloned a bitcoin website|https://glistening-selkie-7f963a.netlify.app/|
 |2|||
 |3|||
 |4|||
@@ -13,7 +13,7 @@
 |7|||
 |8|||
 |9|||
-|10|||
+|10|final update in blockchain site|https://62bec833cf75f8461ca71e88--gilded-pudding-f44e62.netlify.app/|
 |11|||
 |12|||
 |13|||
@@ -24,9 +24,9 @@
 |18|||
 |19|||
 |20|||
-|21|Flutter Concepts||
-|22|Updated Github profile and Learnt about Flutter Widgets|https://www.geeksforgeeks.org/what-is-widgets-in-flutter/|
-|23|Electronics||
+|21|||
+|22|||
+|23|||
 |24|||
 |25|||
 |26|||
