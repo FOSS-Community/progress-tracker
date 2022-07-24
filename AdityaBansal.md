@@ -27,7 +27,7 @@
 |21|Maths Unit 4 completed||
 |22|Nothing much except Chemistry||
 |23|Continued with DSA||
-|24|||
+|24|Studied for University Exams and continued with Kotlin ||
 |25|||
 |26|||
 |27|||
