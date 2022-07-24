@@ -64,6 +64,7 @@
 |21|||
 |22|Start making a multipage react app|https://github.com/Yash-Var/MultipageReactApp|
 |23|Start making Portfolio|https://github.com/Yash-Var/Portfolio|
+|24|Completed Portfolio website|https://github.com/Yash-Var/Portfolio|
 
 
 
