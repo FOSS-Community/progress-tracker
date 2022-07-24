@@ -1,6 +1,6 @@
 ## Timeline
 
-> **June, 2022**
+> **July, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -28,10 +28,10 @@
 |22|||
 |23|||
 |24|||
-|25|||
+|25|created layout of my new ecommerce application, uploaded the roadmap for Kotlin||
 |26|||
 |27|||
-|28|Studied Maths bcz PUE are coming||
+|28|||
 |29|||
 |30|||
 |31|||
