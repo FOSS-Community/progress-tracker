@@ -63,8 +63,8 @@
 |20|||
 |21|||
 |22|Completed this Succeeding in DevOps course|https://ibb.co/7Xt4pzv|
-|23|||
-|24|||
+|23|Solved an IITBHU problem statement|https://imgur.com/BV8xQu9|
+|24|Started this course|https://imgur.com/V3xhCf7|
 |25|||
 |26|||
 |27|||
