@@ -4,7 +4,7 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|Flutter Installation ||
+|1|||
 |2|||
 |3|||
 |4|||
@@ -28,8 +28,8 @@
 |22|||
 |23|||
 |24|||
-|25|||
-|26|||
+|25|Flutter Installation ||
+|26|Flutter Basics ||
 |27|||
 |28|||
 |29|||
