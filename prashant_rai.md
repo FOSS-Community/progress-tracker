@@ -29,7 +29,7 @@
 |23|||
 |24|Chemistry unit 5 & revised stl|https://youtu.be/c9iREsYpayk|
 |25|Reacting with react|https://youtu.be/e8e0T9VBFnU|
-|26|||
+|26|Chemistry and mechanics stuffs|https://youtu.be/Wvw9vDhrrns|
 |27|||
 |28|||
 |29|||
