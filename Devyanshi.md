@@ -28,7 +28,7 @@
 |22|Updated Github profile and Learnt about Flutter Widgets|https://www.geeksforgeeks.org/what-is-widgets-in-flutter/|
 |23|Electronics||
 |24|Chemistry||
-|25|||
+|25|Mechanical Unit 5|https://www.youtube.com/watch?v=c8mfmDG54Dc|
 |26|||
 |27|||
 |28|||
