@@ -28,7 +28,7 @@
 |22|Nothing much except Chemistry||
 |23|Continued with DSA||
 |24|Studied for University Exams and continued with Kotlin ||
-|25|||
+|25|Mechanical for University Exams||
 |26|||
 |27|||
 |28|||
