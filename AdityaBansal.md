@@ -29,7 +29,7 @@
 |23|Continued with DSA||
 |24|Studied for University Exams and continued with Kotlin ||
 |25|Mechanical for University Exams||
-|26|||
+|26|Studied For University Exams||
 |27|||
 |28|||
 |29|||
