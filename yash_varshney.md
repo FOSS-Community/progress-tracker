@@ -66,6 +66,7 @@
 |23|Start making Portfolio|https://github.com/Yash-Var/Portfolio|
 |24|Completed Portfolio website|https://github.com/Yash-Var/Portfolio|
 |25|Studying for UE||
+|25|Studying Chemistry|https://www.youtube.com/watch?v=txGmndhUmNc&t=101s|
 
 
 
