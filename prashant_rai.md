@@ -31,7 +31,7 @@
 |25|Reacting with react|https://youtu.be/e8e0T9VBFnU|
 |26|Chemistry and mechanics stuffs|https://youtu.be/Wvw9vDhrrns|
 |27|UE tasks and react|https://youtu.be/Ni5qpL_06VU|
-|28|||
+|28|Chemistry exam's preperation for university exams|https://youtu.be/rMeqssjfduM|
 |29|||
 |30|||
 |31|||
