@@ -31,7 +31,7 @@
 |25|Mechanical for University Exams||
 |26|Studied For University Exams||
 |27|Studied Chemistry for University Exam||
-|28|||
+|28|Studied Chemistry for UE||
 |29|||
 |30|||
 |31|||
