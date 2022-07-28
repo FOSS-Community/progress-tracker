@@ -67,7 +67,7 @@
 |24|Started this course|https://imgur.com/V3xhCf7|
 |25|||
 |26|Some academics stuff||
-|27|||
+|27|Studied Physics||
 |28|||
 |29|||
 |30|||
