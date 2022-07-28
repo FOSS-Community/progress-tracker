@@ -31,7 +31,7 @@
 |25|Flutter Basics||
 |26|Chemistry Revision ||
 |27|Chemistry Revision ||
-|28|||
+|28|Chemistry Revision ||
 |29|||
 |30|||
 |31|||
