@@ -32,7 +32,8 @@
 | 26  |preparing chemistry and mechanicle for  semester exam                                       |      |
 | 27  |preparing chemistry for exam                                        |      |
 | 28  | Did css from fcc and Maths            |      |
-| 29  | learning electronics                  |      |
+| 29  | learning electronics and doing JS from free code camp
+|      |
 | 30  |                                       |      |
 | 31  |                                       |      |
 
