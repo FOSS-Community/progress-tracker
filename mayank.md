@@ -1,6 +1,6 @@
 ## Timeline
 
-> **Feb, 2020**
+> **June, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -36,7 +36,41 @@
 |30|||
 |31|||
 |1|Learning Tailwind CSS from The Net Ninja |https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw|
+> **July, 2022**
 
+|Day|What did you worked on?|Link|
+|-------|------|--------|
+|1|Learning Tailwind CSS from The Net Ninja |https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw||Private Repo|
+|2|||
+|3|||
+|4|||
+|5|||
+|6|||
+|7|||
+|8|||
+|9|||
+|10|||
+|11|||
+|12|||
+|13|||
+|14|||
+|15|||
+|16|||
+|17|||
+|18|||
+|19|||
+|20|||
+|21|Learn something new in Java Script|https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/|
+|22|||
+|23|Studying physics for University exams|Notes|
+|24|||
+|25|||
+|26|||
+|27|||
+|28|||
+|29|Studying Electrical for university exam|Notes|
+|30|||
+|31|||
 
 
 ---
