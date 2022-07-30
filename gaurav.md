@@ -67,9 +67,9 @@
 |24|Started this course|https://imgur.com/V3xhCf7|
 |25|||
 |26|Some academics stuff||
-|27|||
-|28|||
-|29|||
+|27|Studied Physics||
+|28|Created PR for adding myself as a member in FOSSC website|https://github.com/FOSS-Community/website-fossc/pull/21|
+|29|Attended FOSSC's Twitter Space||
 |30|||
 |31|||
 
