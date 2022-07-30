@@ -32,7 +32,7 @@
 |26|More about Flutter and a bit of Chemistry||
 |27|||
 |28|||
-|29|||
+|29|Chemistry semester exam. Then tried my hands on Dart||
 |30|||
 |31|||
 
