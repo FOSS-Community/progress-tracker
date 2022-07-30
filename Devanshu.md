@@ -27,12 +27,12 @@
 |21|||
 |22|||
 |23|||
-|24|||
-|25|||
-|26|||
-|27|||
-|28|||
-|29|||
+|24|Flutter Installation ||
+|25|Flutter Basics||
+|26|Chemistry Revision ||
+|27|Chemistry Revision ||
+|28|Chemistry Revision ||
+|29|Electronics Revision ||
 |30|||
 |31|||
 

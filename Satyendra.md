@@ -27,10 +27,10 @@
 | 21  |                                       |      |
 | 22  |                                       |      |
 | 23  |                                       |      |
-| 24  |                                       |      |
+| 24  |Learning js and chemistry                                      |      |
 | 25  |                                       |      |
-| 26  |                                       |      |
-| 27  |                                       |      |
+| 26  |preparing chemistry and mechanicle for  semester exam                                       |      |
+| 27  |preparing chemistry for exam                                        |      |
 | 28  | Did css from fcc and Maths            |      |
 | 29  | learning electronics                  |      |
 | 30  |                                       |      |

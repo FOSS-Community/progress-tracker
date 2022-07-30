@@ -27,11 +27,11 @@
 |21|Maths Unit 4 completed||
 |22|Nothing much except Chemistry||
 |23|Continued with DSA||
-|24|||
-|25|||
-|26|||
-|27|||
-|28|||
+|24|Studied for University Exams and continued with Kotlin ||
+|25|Mechanical for University Exams||
+|26|Studied For University Exams||
+|27|Studied Chemistry for University Exam||
+|28|Studied Chemistry for UE||
 |29|||
 |30|||
 |31|||

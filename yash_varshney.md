@@ -64,6 +64,10 @@
 |21|||
 |22|Start making a multipage react app|https://github.com/Yash-Var/MultipageReactApp|
 |23|Start making Portfolio|https://github.com/Yash-Var/Portfolio|
+|24|Completed Portfolio website|https://github.com/Yash-Var/Portfolio|
+|25|||
+|26|Studying for UE||
+|27|Studying Chemistry|https://www.youtube.com/watch?v=txGmndhUmNc&t=101s|
 
 
 
