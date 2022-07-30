@@ -33,7 +33,7 @@
 |27|Studied Chemistry for University Exam||
 |28|Studied Chemistry for UE||
 |29|||
-|30|||
+|30|Studied Electronics for UE||
 |31|||
 
 
