@@ -33,8 +33,8 @@
 | 27  |preparing chemistry for exam                                        |      |
 | 28  | Did css from fcc and Maths            |      |
 | 29  | learning electronics                  |      |
-| 30  |                                       |      |
-| 31  |                                       |      |
+| 30  | Preparing electronics and JS from free code camp                                   |      |
+| 31  | prepaing electronics                                     |      |
 
 ---
 
