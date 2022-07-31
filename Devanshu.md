@@ -33,8 +33,8 @@
 |27|Chemistry Revision ||
 |28|Chemistry Revision ||
 |29|Electronics Revision ||
-|30|||
-|31|||
+|30|Electronics Revision||
+|31|Electronics Revision||
 
 
 
