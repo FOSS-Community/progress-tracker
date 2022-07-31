@@ -34,7 +34,7 @@
 |28|Chemistry exam's preperation for university exams|https://youtu.be/rMeqssjfduM|
 |29|continued watching react|https://youtu.be/Ni5qpL_06VU|
 |30|electronics for ue|https://youtu.be/FX2uzDvi13A|
-|31|||
+|31|electronics for ue |https://youtu.be/i7M4vAArJTU|
 
 
 
