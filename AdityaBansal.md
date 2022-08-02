@@ -32,7 +32,7 @@
 |26|Studied For University Exams||
 |27|Studied Chemistry for University Exam||
 |28|Studied Chemistry for UE||
-|29|||
+|29|Preparing for Electronics Exam||
 |30|||
 |31|||
 
