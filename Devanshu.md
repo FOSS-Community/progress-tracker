@@ -1,11 +1,11 @@
 ## Timeline
 
-> **July, 2022**
+> **August, 2022**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
-|2|||
+|1|Learnt About Softr ||
+|2|Mechanical Revision||
 |3|||
 |4|||
 |5|||
@@ -27,12 +27,12 @@
 |21|||
 |22|||
 |23|||
-|24|Flutter Installation ||
-|25|Flutter Basics||
-|26|Chemistry Revision ||
-|27|Chemistry Revision ||
-|28|Chemistry Revision ||
-|29|Electronics Revision ||
+|24|||
+|25|||
+|26|||
+|27|||
+|28|||
+|29|||
 |30|||
 |31|||
 
