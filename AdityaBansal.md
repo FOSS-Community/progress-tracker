@@ -43,7 +43,7 @@
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|Studied for University Exam||
-|2|||
+|2|Studied for University Exam||
 |3|||
 |4|||
 |5|||
