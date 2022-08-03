@@ -34,7 +34,7 @@
 | 28  | Did css from fcc and Maths            |      |
 | 29  | learning electronics                  |      |
 | 30  |                                       |      |
-| 31  |                                       |      |
+| 31  |preparing electronics                                       |      |
 
 ---
 
