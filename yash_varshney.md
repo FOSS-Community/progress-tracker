@@ -68,7 +68,7 @@
 |25|||
 |26|Studying for UE||
 |27|Studying Chemistry|https://www.youtube.com/watch?v=txGmndhUmNc&t=101s|
-
+|28|Studying Chemistry|https://www.youtube.com/watch?v=txGmndhUmNc&t=101s|
 
 
 ---
