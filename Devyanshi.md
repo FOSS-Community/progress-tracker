@@ -43,7 +43,7 @@
 |-------|------|--------|
 |1|Electronics Exam||
 |2|Mechanical||
-|3|||
+|3|Mechanical exam. Studied more about Git and Github||
 |4|||
 |5|||
 |6|||
