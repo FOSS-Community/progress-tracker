@@ -5,7 +5,7 @@
 | Day | What did you worked on?               | Link |
 | --- | ------------------------------------- | ---- |
 | 1   | learning js and solving maths for PUE |      |
-| 2   |                                       |      |
+| 2   |preparing mechanicle for semester exam|      |
 | 3   |                                       |      |
 | 4   |                                       |      |
 | 5   |                                       |      |
