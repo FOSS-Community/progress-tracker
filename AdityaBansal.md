@@ -44,7 +44,7 @@
 |-------|------|--------|
 |1|Studied for University Exam||
 |2|Studied for University Exam||
-|3|||
+|3|Studied for University Exam||
 |4|||
 |5|||
 |6|||
