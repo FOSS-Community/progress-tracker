@@ -7,7 +7,7 @@
 | 1   | learning js and solving maths for PUE |      |
 | 2   |preparing mechanicle for semester exam|      |
 | 3   | learning JS from free code camp                                      |      |
-| 4   |                                       |      |
+| 4   |learnining JS from free code camp                                       |      |
 | 5   |                                       |      |
 | 6   |                                       |      |
 | 7   |                                       |      |
