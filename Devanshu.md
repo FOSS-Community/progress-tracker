@@ -6,7 +6,7 @@
 |-------|------|--------|
 |1|Learnt About Softr ||
 |2|Mechanical Revision||
-|3|||
+|3|Web Devlopment ||
 |4|||
 |5|||
 |6|||
