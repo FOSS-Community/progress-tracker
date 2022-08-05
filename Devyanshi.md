@@ -45,7 +45,7 @@
 |2|Mechanical||
 |3|Mechanical exam. Studied more about Git and Github||
 |4|Studied more about dart||
-|5|||
+|5|Installed and set up ubantu && learnt about linux commands.||
 |6|||
 |7|||
 |8|||
