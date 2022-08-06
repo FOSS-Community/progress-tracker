@@ -46,7 +46,7 @@
 |3|Mechanical exam. Studied more about Git and Github||
 |4|Studied more about dart||
 |5|Installed and set up ubantu && learnt about linux commands.||
-|6|||
+|6|A lotttttt of Dart and Flutter :| ||
 |7|||
 |8|||
 |9|||
