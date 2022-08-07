@@ -47,7 +47,7 @@
 |4|Studied more about dart||
 |5|Installed and set up ubantu && learnt about linux commands.||
 |6|||
-|7|||
+|7|Explored some open source projects and studied about some more widgets in Flutter||
 |8|||
 |9|||
 |10|||
