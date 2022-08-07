@@ -52,7 +52,7 @@
 | 4   |learnining JS from free code camp                                       |      |
 | 5   |learning JS from free code camp                                     |      |
 | 6   |                                       |      |
-| 7   |                                       |      |
+| 7   |JS from free code camp                                     |      |
 | 8   |                                       |      |
 | 9   |                                       |      |
 | 10  |                                       |      |
