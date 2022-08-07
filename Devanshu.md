@@ -8,8 +8,8 @@
 |2|Mechanical Revision||
 |3|Web Devlopment ||
 |4|Web Devlopment ||
-|5|||
-|6|||
+|5|Worked on Some Issues ||
+|6|Read some Books||
 |7|||
 |8|||
 |9|||
