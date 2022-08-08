@@ -47,7 +47,7 @@
 |3|Studied for University Exam||
 |4|Nothing 😕||
 |5|Continued with my DSA Course||
-|6|||
+|6|Nothing because i came back to home||
 |7|||
 |8|||
 |9|||
