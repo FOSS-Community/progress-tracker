@@ -53,7 +53,7 @@
 | 5   |learning JS from free code camp                                     |      |
 | 6   |                                       |      |
 | 7   |                                       |      |
-| 8   |                                       |      |
+| 8   |mathematics                                       |      |
 | 9   |                                       |      |
 | 10  |                                       |      |
 | 11  |                                       |      |
