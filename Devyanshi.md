@@ -48,8 +48,8 @@
 |5|Installed and set up ubantu && learnt about linux commands.||
 |6|||
 |7|||
-|8|||
-|9|||
+|8|A lil bit of Maths||
+|9|Flutter||
 |10|||
 |11|||
 |12|||
