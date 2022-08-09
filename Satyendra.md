@@ -51,7 +51,7 @@
 | 3   | learning JS from free code camp                                      |      |
 | 4   |learnining JS from free code camp                                       |      |
 | 5   |learning JS from free code camp                                     |      |
-| 6   |                                       |      |
+| 6   | learning JS from free code camp                                      |      |
 | 7   |                                       |      |
 | 8   |mathematics                                       |      |
 | 9   |JS from free code camp                                      |      |
