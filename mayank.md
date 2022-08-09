@@ -82,7 +82,7 @@
 |4|||
 |5|||
 |6|||
-|7|||
+|7|Doing some new things in Java Script|https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/|
 |8|||
 |9|||
 |10|||
