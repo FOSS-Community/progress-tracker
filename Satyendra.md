@@ -54,7 +54,7 @@
 | 6   |                                       |      |
 | 7   |                                       |      |
 | 8   |mathematics                                       |      |
-| 9   |                                       |      |
+| 9   |JS from free code camp                                      |      |
 | 10  |                                       |      |
 | 11  |                                       |      |
 | 12  |                                       |      |
