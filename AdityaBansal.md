@@ -51,7 +51,7 @@
 |7|||
 |8|Nothing because i came back to home||
 |9|Nothing much||
-|10|||
+|10|Continued with my DSA course and little bit of maths for UE||
 |11|||
 |12|||
 |13|||
