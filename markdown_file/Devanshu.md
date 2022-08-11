@@ -12,9 +12,9 @@
 |6|||
 |7|Soft Skills||
 |8|Angular||
-|9|||
-|10|||
-|11|||
+|9|Web Development ||
+|10|Maths ||
+|11|Maths ||
 |12|||
 |13|||
 |14|||
