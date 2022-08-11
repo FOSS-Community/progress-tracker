@@ -1,10 +1,10 @@
 ## Timeline
 
-> **Jun, 2022**
+> **Month, YYYY**
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
+|1||| Progress tracker | https://github.com/bickybong/progress-tracker
 |2|||
 |3|||
 |4|||
@@ -12,7 +12,7 @@
 |6|||
 |7|||
 |8|||
-|9|| |
+|9|||
 |10|||
 |11|||
 |12|||
