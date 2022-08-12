@@ -50,9 +50,9 @@
 |7|||
 |8|A lil bit of Maths||
 |9|Flutter||
-|10|||
-|11|||
-|12|||
+|10|Learned more about linux and command line||
+|11|Git commands||
+|12|Nothing||
 |13|||
 |14|||
 |15|||
