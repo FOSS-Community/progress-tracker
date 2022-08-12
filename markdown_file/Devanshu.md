@@ -15,7 +15,7 @@
 |9|Web Development ||
 |10|Maths ||
 |11|Maths ||
-|12|||
+|12|Flutter Basics||
 |13|||
 |14|||
 |15|||
