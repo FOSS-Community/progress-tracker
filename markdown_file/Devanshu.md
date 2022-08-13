@@ -16,7 +16,7 @@
 |10|Maths ||
 |11|Maths ||
 |12|Flutter Basics||
-|13|||
+|13|Maths ||
 |14|||
 |15|||
 |16|||
