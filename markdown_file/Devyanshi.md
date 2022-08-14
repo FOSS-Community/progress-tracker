@@ -53,8 +53,8 @@
 |10|Learned more about linux and command line||
 |11|Git commands||
 |12|Nothing||
-|13|||
-|14|||
+|13|Dart||
+|14|Maths||
 |15|||
 |16|||
 |17|||
