@@ -57,7 +57,7 @@
 |14|||
 |15|||
 |16|||
-|17|||
+|17|Installed and set up Java for internship||
 |18|||
 |19|||
 |20|||
