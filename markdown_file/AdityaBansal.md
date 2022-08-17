@@ -58,7 +58,7 @@
 |14|||
 |15|||
 |16|||
-|17|||
+|17|Data Mining by R class by IIPC KIET and DSA Course||
 |18|||
 |19|||
 |20|||
