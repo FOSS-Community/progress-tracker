@@ -59,7 +59,7 @@
 |15|||
 |16|Nothing||
 |17|||
-|18|||
+|18|Continued with my DSA course and data mining with R online class||
 |19|||
 |20|||
 |21|||
