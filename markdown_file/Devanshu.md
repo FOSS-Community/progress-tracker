@@ -22,7 +22,7 @@
 |16|||
 |17|Flutter ||
 |18|Python ||
-|19|||
+|19|Angular and flutter ||
 |20|||
 |21|||
 |22|||
