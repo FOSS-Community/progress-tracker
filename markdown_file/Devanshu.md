@@ -23,7 +23,7 @@
 |17|Flutter ||
 |18|Python ||
 |19|Angular and flutter ||
-|20|||
+|20|Learnt about Canva ||
 |21|||
 |22|||
 |23|||
