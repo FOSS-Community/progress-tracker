@@ -24,7 +24,7 @@
 |18|Python ||
 |19|Angular and flutter ||
 |20|Learnt about Canva ||
-|21|||
+|21|Web Devlopment||
 |22|||
 |23|||
 |24|||
