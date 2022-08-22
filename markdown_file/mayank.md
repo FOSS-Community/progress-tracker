@@ -96,8 +96,8 @@
 |18|||
 |19|learn javascript with free code camp||
 |20|Cloning a website||
-|21|||
-|22|||
+|21|Start learning DSA||
+|22|Continue with the DSA||
 |23|||
 |24|||
 |25|||
