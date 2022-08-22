@@ -62,7 +62,7 @@
 |18|Continued with my DSA course and data mining with R online class||
 |19|Continued with my DSA Course||
 |20|Little bit continued with DSA||
-|21|||
+|21|Continued with DSA||
 |22|||
 |23|||
 |24|||
