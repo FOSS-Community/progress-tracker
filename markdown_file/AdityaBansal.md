@@ -63,7 +63,7 @@
 |19|Continued with my DSA Course||
 |20|Little bit continued with DSA||
 |21|Continued with DSA||
-|22|||
+|22|Continued with DSA||
 |23|||
 |24|||
 |25|||
