@@ -98,7 +98,7 @@
 |20|Cloning a website||
 |21|Start learning DSA||
 |22|Continue with the DSA||
-|23|||
+|23|Doing some stuff with js||
 |24|||
 |25|||
 |26|||
