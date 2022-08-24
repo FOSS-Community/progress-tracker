@@ -63,8 +63,8 @@
 |20|||
 |21|||
 |22|||
-|23|||
-|24|||
+|23|Revised Java basics||
+|24|Started my DSA journey||
 |25|||
 |26|||
 |27|||
