@@ -99,7 +99,7 @@
 |21|Start learning DSA||
 |22|Continue with the DSA||
 |23|Doing some stuff with js||
-|24|||
+|24|Working no a project||
 |25|||
 |26|||
 |27|||
