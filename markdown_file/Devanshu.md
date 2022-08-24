@@ -26,7 +26,7 @@
 |20|Learnt about Canva ||
 |21|Web Devlopment||
 |22|Web Devlopment ||
-|23|||
+|23|Angular||
 |24|||
 |25|||
 |26|||
