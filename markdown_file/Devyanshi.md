@@ -65,7 +65,7 @@
 |22|||
 |23|Revised Java basics||
 |24|Started my DSA journey||
-|25|||
+|25|OOP concepts||
 |26|||
 |27|||
 |28|||
