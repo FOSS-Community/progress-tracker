@@ -66,7 +66,7 @@
 |22|Continued with DSA||
 |23|Nothing much||
 |24|DSA Course||
-|25|||
+|25|Nothing much||
 |26|||
 |27|||
 |28|||
