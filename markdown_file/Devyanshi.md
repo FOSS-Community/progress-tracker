@@ -66,7 +66,7 @@
 |23|Revised Java basics||
 |24|Started my DSA journey||
 |25|OOP concepts||
-|26|||
+|26|Flutter||
 |27|||
 |28|||
 |29|||
