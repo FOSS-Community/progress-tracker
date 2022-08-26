@@ -67,12 +67,12 @@
 |23|Nothing much||
 |24|DSA Course||
 |25|Nothing much||
-|26|||
+|26|DSA Course ||
 |27|||
 |28|||
 |29|||
 |30|||
-|31|Studying for University Exam ||
+|31|||
 
 
 
