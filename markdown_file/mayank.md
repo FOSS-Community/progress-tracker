@@ -100,7 +100,7 @@
 |22|Continue with the DSA||
 |23|Doing some stuff with js||
 |24|Working no a project||
-|25|||
+|25|Working on same project||
 |26|||
 |27|||
 |28|||
