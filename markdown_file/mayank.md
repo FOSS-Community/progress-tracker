@@ -101,7 +101,7 @@
 |23|Doing some stuff with js||
 |24|Working no a project||
 |25|Working on same project||
-|26|||
+|26|Nothing||
 |27|||
 |28|||
 |29|||
