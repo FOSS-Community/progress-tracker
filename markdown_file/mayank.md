@@ -102,7 +102,7 @@
 |24|Working no a project||
 |25|Working on same project||
 |26|Nothing||
-|27|||
+|27|Continue wth DSA||
 |28|||
 |29|||
 |30|||
