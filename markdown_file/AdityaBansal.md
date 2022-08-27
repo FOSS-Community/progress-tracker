@@ -68,7 +68,7 @@
 |24|DSA Course||
 |25|Nothing much||
 |26|DSA Course ||
-|27|||
+|27|Nothing ||
 |28|||
 |29|||
 |30|||
