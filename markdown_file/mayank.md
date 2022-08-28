@@ -102,8 +102,8 @@
 |24|Working no a project||
 |25|Working on same project||
 |26|Nothing||
-|27|||
-|28|||
+|27|Continue with DSA||
+|28|Doing some stuff with JS||
 |29|||
 |30|||
 |31|||
