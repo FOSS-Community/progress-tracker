@@ -67,7 +67,7 @@
 |24|Started my DSA journey||
 |25|OOP concepts||
 |26|Flutter||
-|27|||
+|27|DSA||
 |28|||
 |29|||
 |30|||
