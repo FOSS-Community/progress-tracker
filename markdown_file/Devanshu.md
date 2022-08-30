@@ -33,7 +33,7 @@
 |27|Python ||
 |28|Python ||
 |29|||
-|30|||
+|30|YBI INTERNSHIP ||
 |31|||
 
 
