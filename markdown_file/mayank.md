@@ -105,7 +105,7 @@
 |27|Continue wth DSA||
 |28|||
 |29|Learn DSA and do work on FOSS new website||
-|30|||
+|30|Nothing||
 |31|||
 
 
