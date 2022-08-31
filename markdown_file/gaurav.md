@@ -74,6 +74,41 @@
 |31|||
 
 
+> **August, 2022**
+
+|Day|What did you worked on?|Link|
+|-------|------|--------|
+|1|||
+|2|||
+|3|||
+|4|||
+|5|||
+|6|||
+|7|||
+|8|||
+|9|||
+|10|||
+|11||
+|12||
+|13|||
+|14|||
+|15|||
+|16|||
+|17|Learning Python||
+|18|||
+|19|Did some labs on LFCS course||
+|20|||
+|21|||
+|22|||
+|23|||
+|24|Dockerized a python program for bubble sort and pushed the image on docker hub||
+|25|||
+|26|||
+|27|||
+|28|||
+|29|Created a Treasure hunt game for my school friends in Python. Dockerized it and pushed the image on docker hub||
+|30|||
+|31|||
 
 ---
 
