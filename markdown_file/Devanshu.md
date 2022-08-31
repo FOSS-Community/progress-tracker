@@ -32,7 +32,7 @@
 |26|Hackathon ||
 |27|Python ||
 |28|Python ||
-|29|||
+|29|Web Dev. ||
 |30|||
 |31|||
 
