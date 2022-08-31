@@ -106,7 +106,7 @@
 |28|||
 |29|Learn DSA and do work on FOSS new website||
 |30|||
-|31|||
+|31|Nothing||
 
 
 ---
