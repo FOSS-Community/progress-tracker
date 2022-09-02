@@ -46,7 +46,7 @@
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|Unity||
-|2|||
+|2|Unity||
 |3|||
 |4|||
 |5|||
