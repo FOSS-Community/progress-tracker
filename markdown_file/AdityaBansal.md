@@ -82,7 +82,7 @@
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|Nothing because of Semsester registration and Hostel Change Procedures||
-|2|||
+|2|Nothing much. 3rd Semester classes started||
 |3|||
 |4|||
 |5|||
