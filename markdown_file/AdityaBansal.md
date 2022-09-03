@@ -83,7 +83,7 @@
 |-------|------|--------|
 |1|Nothing because of Semsester registration and Hostel Change Procedures||
 |2|Nothing much. 3rd Semester classes started||
-|3|||
+|3|Nothing||
 |4|||
 |5|||
 |6|||
