@@ -85,7 +85,7 @@
 |2|Nothing much. 3rd Semester classes started||
 |3|Nothing||
 |4|Little bit of DSA||
-|5|||
+|5|Nothing||
 |6|||
 |7|||
 |8|||
