@@ -116,7 +116,7 @@
 |2|Learn DSA||
 |3|Nothing||
 |4|||
-|5|||
+|5|Creating a reel for MSOC||
 |6|||
 |7|||
 |8|||
