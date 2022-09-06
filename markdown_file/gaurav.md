@@ -120,7 +120,7 @@
 |3|||
 |4|||
 |5|Did python course , DSA problems,Docker course||
-|6|||
+|6|Did python course , DSA problems,Docker course||
 |7|||
 |8|||
 |9|||
