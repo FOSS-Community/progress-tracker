@@ -84,8 +84,8 @@
 |1|Nothing because of Semsester registration and Hostel Change Procedures||
 |2|Nothing much. 3rd Semester classes started||
 |3|Nothing||
-|4|||
-|5|||
+|4|Little bit of DSA||
+|5|Nothing||
 |6|||
 |7|||
 |8|||
