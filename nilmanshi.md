@@ -22,7 +22,7 @@
 |16|||
 |17|||
 |18|python|https://www.programiz.com/python-programming/online-compiler/|
-|19|||
+|19|python|https://www.javatpoint.com/pyhton-print-all-prime-number-in-an-interval|
 |20|||
 |21|||
 |22|||
