@@ -87,7 +87,7 @@
 |4|Little bit of DSA||
 |5|Nothing||
 |6|||
-|7|||
+|7|Nothing much||
 |8|||
 |9|||
 |10|DSA||
