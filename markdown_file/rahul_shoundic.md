@@ -30,7 +30,7 @@
 |24| linux commands | https://ibb.co/JHJL3hv , https://ibb.co/r51swJS |
 |25|||
 |26| Docker video tutorials of Kunal Kushwaha | https://www.youtube.com/watch?v=17Bl31rlnRM |
-|27|||
+|27|Larning JS||
 |28|||
 |29|||
 |30|||
