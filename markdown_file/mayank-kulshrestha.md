@@ -78,23 +78,23 @@
 |-------|------|--------|
 |1|||
 |2|||
-|3|ML project||
+|3|||
 |4|||
-|5|naming & tagging containers and images on docker||
+|5|||
 |6|||
-|7|learned about docker hub ||
+|7| learned docker||
 |8|||
 |9|||
 |10|||
 |11|||
-|12| docker sharing images ||
+|12| ||
 |13|||
-|14| MOOC on git and github ||
-|15| HTML5,learning github ||
-|16| hand on html and commit on github | https://ibb.co/bJLnW6h , https://ibb.co/g94FXhm |
-|17| html and CSS ||
-|18| ceating a website ||
-|19| continue on website | https://ibb.co/bBBKdpx |
+|14| Started aws cloud practitioner||
+|15| HTML5, aws cloud practitioner||
+|16| aws cloud practitioner||
+|17| html5||
+|18| aws cloud practitioner ||
+|19| aws cloud practitioner ||
 |20|||
 |21|||
 |22|||
