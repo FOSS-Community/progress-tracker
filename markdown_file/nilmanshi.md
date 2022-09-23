@@ -25,7 +25,7 @@
 |19|python|https://www.javatpoint.com/pyhton-print-all-prime-number-in-an-interval|
 |20|python|https://www.programiz.com/python-programming/examples/prime-number-intervals|
 |21|python|https://www.programiz.com/python-programming/examples/fibonacci-sequence|
-|22|||
+|22|python|https://codeforwin.org/2015/05/c-program-to-check-whether-number-is-divisible-by-5-and-11.html|
 |23|||
 |24|||
 |25|||
