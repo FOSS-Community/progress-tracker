@@ -82,7 +82,7 @@
 |4|||
 |5|||
 |6|||
-|7| learned docker||
+|7| practicing docker||
 |8|||
 |9|||
 |10|||
@@ -96,7 +96,7 @@
 |18| aws cloud practitioner ||
 |19| aws cloud practitioner ||
 |20|||
-|21|||
+|21| running webgoat on docker|https://hub.docker.com/r/webgoat/webgoat-8.0/|
 |22|||
 |23|||
 |24|||
