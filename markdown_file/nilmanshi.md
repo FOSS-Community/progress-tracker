@@ -24,7 +24,7 @@
 |18|python|https://www.programiz.com/python-programming/online-compiler/|
 |19|python|https://www.javatpoint.com/pyhton-print-all-prime-number-in-an-interval|
 |20|python|https://www.programiz.com/python-programming/examples/prime-number-intervals|
-|21|||
+|21|python|https://www.programiz.com/python-programming/examples/fibonacci-sequence|
 |22|||
 |23|||
 |24|||
