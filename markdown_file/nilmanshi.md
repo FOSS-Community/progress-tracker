@@ -27,7 +27,7 @@
 |21|python|https://www.programiz.com/python-programming/examples/fibonacci-sequence|
 |22|python|https://codeforwin.org/2015/05/c-program-to-check-whether-number-is-divisible-by-5-and-11.html|
 |23|crying|https://en.wikipedia.org/wiki/Crying|
-|24|||
+|24|css|https://youtu.be/2VauFS071pg|
 |25|||
 |26|||
 |27|||
