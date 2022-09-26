@@ -29,7 +29,7 @@
 |23|crying|https://en.wikipedia.org/wiki/Crying|
 |24|||
 |25|||
-|26|||
+|26|python|https://www.techbeamers.com/python-interview-questions-experienced/|
 |27|||
 |28|||
 |29|||
