@@ -102,7 +102,7 @@
 |24|||
 |25|||
 |26| completed 10 rooms in Tryhackme |https://tryhackme.com/  |
-|27|||
+|27| learning linked list in Data structure||
 |28|||          
 |29|||
 |30|||
