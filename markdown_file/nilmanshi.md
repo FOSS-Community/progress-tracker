@@ -32,7 +32,7 @@
 |26|||
 |27|python|https://codeforwin.org/2015/05/c-program-to-check-whether-number-is-divisible-by-5-and-11.html|
 |28|||
-|29|||
+|29|puthon|https://codeforwin.org/2015/05/c-program-to-check-whether-number-is-divisible-by-5-and-11.html|
 |30|||
 |31|||
 
