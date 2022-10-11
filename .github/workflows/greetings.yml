@@ -10,4 +10,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Thank you 🙏🏻 for submitting your first issue to progress-tracker by @FOSS-Community'
-        pr-message: 'Thank you 🙏🏻 for contributing to progress-tracker by @FOSS-Community'
+        pr-message: 'Thank you 🙏🏻 for contributing to progress-tracker by @FOSS-Community. Looking Forward for more contributions.'
