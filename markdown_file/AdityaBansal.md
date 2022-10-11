@@ -86,7 +86,7 @@
 |3|Nothing||
 |4|Little bit of DSA||
 |5|Nothing||
-|6|||
+|6|Kotlin||
 |7|||
 |8|||
 |9|||
