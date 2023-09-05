@@ -129,7 +129,7 @@
 |15|||
 |16|||
 |17|||
-|18|||
+|18|Study Computer organization and architecture||
 |19|||
 |20|Learn Python||
 |21|||
